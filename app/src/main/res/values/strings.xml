@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Final Homework</string>
+    <string name="Easy">Easy</string>
+    <string name="Medium">Medium</string>
+    <string name="Hard">Hard</string>
+    <string name="Level">Level:</string>
+    <string name="Right">Right</string>
+    <string name="False">False</string>
+    <string name="YourScore">Your Score</string>
+    <string name="ShareYourScore">Share Your Score</string>
+    <string name="highestScore">Highest Score</string>
+
+    <string name="Opps">Opps wrong Answer...</string>
+    <string name="TryAgain">Try Again</string>
+    <string name="toMainMenu">To Menu</string>
+    <string name="exit">Exit</string>
+    <string name="heightS">Highest Score</string>
+    <string name="title_activity_dash_bord">DashBordActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">NEXT</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-anydpi/ic_array_back.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_game_over.xml" value="0.166" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_pause.xml" value="0.166" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.166" />
+        <entry key="app/src/main/res/drawable/empty_bac.xml" value="0.143" />
+        <entry key="app/src/main/res/drawable/game_out_shape.xml" value="0.143" />
+        <entry key="app/src/main/res/drawable/hight_score_pop_up.xml" value="0.108" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.166" />
+        <entry key="app/src/main/res/drawable/next_btn_shape.xml" value="0.1635" />
+        <entry key="app/src/main/res/drawable/popup_background.xml" value="0.143" />
+        <entry key="app/src/main/res/drawable/scores_chart_pop_up.xml" value="0.157" />
+        <entry key="app/src/main/res/drawable/shapeselector.xml" value="0.142" />
+        <entry key="app/src/main/res/drawable/share_shape.xml" value="0.1935" />
+        <entry key="app/src/main/res/layout-land/activity_easy.xml" value="0.2140625" />
+        <entry key="app/src/main/res/layout-land/chart_all_scores_dialog.xml" value="0.26145833333333335" />
+        <entry key="app/src/main/res/layout/activity_dash_board2.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_dashbord_game2.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_easy.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_easy_mode.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_ended_game.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_exemple.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_game2.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_game_two.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_scores_actitvity.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_selection_menu.xml" value="0.2453125" />
+        <entry key="app/src/main/res/layout/chart_all_scores_dialog.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/content_dash_bord.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/copie.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_blank.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_eass.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_easy_scores.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_easy_scores2.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_one.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/game2_over_dialog.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/game_over_dialog.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/highest_score_dialog.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/list_item_book.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/menu/scores_menu.xml" value="0.3098958333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

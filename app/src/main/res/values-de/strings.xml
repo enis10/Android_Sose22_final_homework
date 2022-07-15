@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Abschlussübung</string>
+    <string name ="Easy">Einfach</string>
+    <string name="Medium">Mittel</string>
+    <string name="Hard">Schwer</string>
+    <string name="Level">Stufe:</string>
+    <string name="Right">Richtig</string>
+    <string name="False">Falsch</string>
+    <string name="YourScore">Dein Score</string>
+    <string name="ShareYourScore">Teile dein Score</string>
+    <string name ="highestScore">Höchste Score</string>
+    <string name="heightS">Höchste Score</string>
+    <string name="Opps">Opps falsche Antwort...</string>
+    <string name="TryAgain">Noch Mal versuchen</string>
+    <string name="next">WEITER</string>
+    <string name="exit">Ausgang</string>
+
+    <string name="toMainMenu">Zum Hauptmenü</string>
+</resources>
