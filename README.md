@@ -1,6 +1,6 @@
 # Android_Sose22_final_homework
 
-Hallo 👍🏽
+Hallo 👋🏽
 
 Dies ist meine Lösung der Abschlussübung des Android-Programmierkurses  des Sommersemesters 22 für die Studierenden der Fakultät 1
 an der Hochschule Hannover.
@@ -23,8 +23,7 @@ Das Logo wurde aus dieser [Link](https://apptopia.com/google-play/app/com.quiztr
   <img  src="https://i.postimg.cc/5NCrpXy9/Capture-d-cran-2022-07-31-10-12-27.png" height="370" title="Statistik aller Stufen">
   
   <img  src="https://i.postimg.cc/rw2PHqR1/Capture-d-cran-2022-07-31-10-12-36.png" height="370" title="Statistik Stufe: Einfach">
-  <img  src="https://i.postimg.cc/SRwvkhTp/Capture-d-cran-2022-07-31-10-12-55.png" height="370" title="Spiel Stufe Schwer">
-  
+  <img  src="https://i.postimg.cc/SRwvkhTp/Capture-d-cran-2022-07-31-10-12-55.png" height="370" title="Spiel Stufe Schwer"> 
   <img  src="https://i.postimg.cc/RZ1D52wj/Capture-d-cran-2022-07-31-10-13-05.png" height="370" title="Falsche Antwort Stufe: Schwer">
   </p>
 
