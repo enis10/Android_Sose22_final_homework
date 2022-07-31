@@ -6,7 +6,7 @@ Dies ist meine Lösung der Abschlussübung des Android-Programmierkurses  des So
 an der Hochschule Hannover.
 Die Beschreibung der Aufgabe ist unter diesem [Link](https://online.flippingbook.com/view/1022881640/) herunter zu laden.
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 Das Logo wurde aus dieser [Link](https://apptopia.com/google-play/app/com.quiztriviagameapps.mathsquizgame/about) genommen.
